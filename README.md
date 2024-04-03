@@ -1,2 +1,2 @@
 restart the space if it is sleeping
-<h1>https://huggingface.co/spaces/Pranavadhar/AGROSENSE</h1>
+<h1>https://cropprediction-agrosense.streamlit.app/</h1>
